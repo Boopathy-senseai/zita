@@ -8,4 +8,3 @@ run:
   command: sh startup.sh
   network:
     port: 8000
-
